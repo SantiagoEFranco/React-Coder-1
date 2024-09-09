@@ -1,2 +1,3 @@
 # React-Coder-1
-Primer pre entrega de ReactJs en CoderHouse
+Primer pre entrega de ReactJs en CoderHouse realizada por Santiago Franco
+
